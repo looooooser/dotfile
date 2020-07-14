@@ -1,2 +1,2 @@
 # dotfile
-My dotfile(.vimrc .bashrc .tmux.conf etc)
+My dotfile (.vimrc .bashrc .tmux.conf etc).
